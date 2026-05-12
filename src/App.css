@@ -51,3 +51,10 @@
     margin-right: 12px;
   }
 }
+
+.compteur-recherche {
+  font-size: 0.85rem;
+  color: #888780;
+  margin-bottom: 8px;
+  text-align: right;
+}
